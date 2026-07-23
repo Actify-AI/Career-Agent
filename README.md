@@ -8,6 +8,14 @@ Career Agent is live — an AI agent that runs your entire job search for you.
 
 [Start Free](https://actify-ai.com) · [Chrome Extension](https://chromewebstore.google.com/detail/actify-job-queue/gapmlfhebfodekgiclofndmehhojakjf) · [iOS App](https://apps.apple.com/us/app/actify-ai/id6738942787) · [Discord](https://discord.gg/NrkG9nzXCA)
 
+<table>
+<tr>
+<td><img width="100%" alt="Screenshot 2026-07-23 at 12 21 46 PM" src="https://github.com/user-attachments/assets/e25cf113-a216-4d6d-8b46-f3608b4f07d2" /></td>
+<td><img width="100%" alt="Screenshot 2026-07-23 at 12 20 47 PM" src="https://github.com/user-attachments/assets/2b067e62-457c-4181-b84e-3d1191bcb968" /></td>
+<td><img width="100%" alt="Screenshot 2026-07-23 at 12 17 49 PM" src="https://github.com/user-attachments/assets/13a6e2c7-2b3f-47d0-90bf-fae7e305a441" /></td>
+</tr>
+</table>
+
 </div>
 
 ---
